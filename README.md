@@ -1,0 +1,2 @@
+# GenerativeAI
+Generative ai course
